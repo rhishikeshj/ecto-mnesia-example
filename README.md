@@ -1,5 +1,10 @@
 # Blog
 
+Example app to play around with the [Ecto3 Mnesia adapter](https://gitlab.com/patatoid/ecto3_mnesia)
+Code for the Ecto app, taken from [this tutorial](https://serokell.io/blog/ecto-guide-for-beginners)
+
+Look at the `lib/blog/scratch.ex` file for more details.
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
